@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>BlackTaw.png</file>
+        <file>BoardGame.png</file>
+        <file>OrangeTaw.png</file>
+        <file>BlueTaw.png</file>
+        <file>Start.png</file>
+        <file>turn.png</file>
+    </qresource>
+</RCC>
